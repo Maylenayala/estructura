@@ -1,0 +1,123 @@
+@charset "utf-8";
+.contenedor_principal .cabecera {
+    width: 100%;
+    height: 80px;
+    background-color: #FF1212;
+    color: #000000;
+    font-size: 30pt;
+    text-align: center;
+    border-radius: px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+
+
+.contenedor_principal .menu {
+    width: 100%;
+    height: 40px;
+    font-size: 20pt;
+    text-align: center;
+    background-color: #FFF60B;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    border-spacing: px 10px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.contenedor_principal .menu_lateral {
+    width: 40%;
+    height: 300px;
+    font-size: 40px;
+    text-align: center;
+    background-color: #15E526;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    float: left;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.contenedor_principal .publicación {
+    width: 55%;
+    height: 300px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    float: right;
+    clear: right;
+    background-color: #FF7E00;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.contenedor_principal .publicación .articulo_1 {
+    background-color: #000000;
+    width: 100%;
+    height: 49px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 20pt;
+}
+.contenedor_principal .publicación .articulo_2 {
+    width: 40%;
+    height: 230px;
+    float: left;
+    background-color: #0D89EF;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    font-size: 17pt;
+    text-align: center;
+}
+.contenedor_principal .publicación .articulo_3 {
+    width: 40%;
+    height: 230px;
+    float: right;
+    background-color: #0D89EF;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    font-size: 17pt;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.contenedor_principal .pie_pagina {
+    clear: both;
+    background-color: #F41BDF;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    font-size: 22pt;
+    color: #FFFFFF;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
